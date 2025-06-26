@@ -1,0 +1,6 @@
+{
+  "/characteristics/[sign]/page": "app/characteristics/[sign]/page.js",
+  "/compatibility/page": "app/compatibility/page.js",
+  "/horoscope/page": "app/horoscope/page.js",
+  "/page": "app/page.js"
+}
